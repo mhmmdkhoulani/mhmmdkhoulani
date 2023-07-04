@@ -17,9 +17,13 @@
         <p>
             <strong>
                 Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+              I am a software developer with a Secret Clearance and over 3 years of experience in the tech industry. My expertise lies in developing responsive web applications, web APIs, and business solutions. I am truly passionate about coding as it allows me to come up with innovative solutions to address both simple and complex problems for businesses of all sizes.
+
+One of my favourite aspects of being a software developer is the opportunity to help students through training and contribute to their career development. I find it incredibly rewarding to be a part of their learning journey.
+
+As a lifelong learner, I am always eager to discover new technologies and stay updated with the latest advancements. Currently, I am embarking on my journey into modern cloud solution development, expanding my skill set to adapt to the evolving tech landscape.
+
+If you're interested in collaborating or have any questions, feel free to reach out. I am always eager to connect and explore new opportunities in the tech industry.
             </strong>
         </p>
         <ul>
