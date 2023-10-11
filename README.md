@@ -37,9 +37,9 @@ If you're interested in collaborating or have any questions, feel free to reach 
     </div>
     <div align=center>
       <h1>GitHub Stats</h1>
-
-<be>
  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhmmdkhoulani&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<be>
+
  [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmdkhoulani&theme=algolia)](https://github.com/mhmmdkhoulani/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdkhoulani&theme=algolia)](https://github.com/mhmmdkhoulani/github-readme-stats) 
 
 <br>
